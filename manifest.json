@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "size": 0,
-  "sha256": "",
-  "url": ""
+  "size": 8656,
+  "sha256": "cbf9a747ebbda367898538b503b425f2c83aed4a9ba748d09dbe7264314247d5",
+  "url": "https://github.com/AkumaMagic/sensor-fw/releases/download/v1/stm32_fw.bin"
 }
