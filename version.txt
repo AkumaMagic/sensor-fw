@@ -1,2 +1,2 @@
 2
-https://github.com/AkumaMagic/sensor-fw/releases/download/v1/LED_Blink_Mix.bin
+https://github.com/AkumaMagic/sensor-fw/releases/download/v2/LED_ON.bin
