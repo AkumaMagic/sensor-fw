@@ -1,2 +1,2 @@
-4
-https://github.com/AkumaMagic/sensor-fw/releases/download/v4/fw-sensor.bin
+5
+https://github.com/AkumaMagic/sensor-fw/releases/download/v5/fw-sensor.bin
