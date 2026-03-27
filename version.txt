@@ -1,2 +1,2 @@
-2
-https://github.com/AkumaMagic/sensor-fw/releases/download/v2/LED_ON.bin
+3
+https://github.com/AkumaMagic/sensor-fw/releases/download/v3/fw-sensor.bin
